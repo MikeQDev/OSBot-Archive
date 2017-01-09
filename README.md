@@ -1,4 +1,4 @@
-OSBOT Archive!
+OSBOT Archive
 ==============
 
 
@@ -23,3 +23,6 @@ Thanks DJ for supporting initial bond acquisition and helping with script ideas.
 * Cannonball smelter - use edge or AK furnace to smelt cannonballs
 * Smith trainer - use varrock anvil to get smithing req'r for smithing cannonballs
 * Dwarf cannon quest - completes dwarf cannon (req'r for smithing cannonballs)
+
+
+![small bot farm](https://raw.githubusercontent.com/mikeqdev/OSBot-Archive/master/6-bots-tabs.jpg "awesome mini-bot farm :)")
