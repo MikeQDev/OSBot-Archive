@@ -1,0 +1,34 @@
+400 poh tabs = 252k
+50 ring of duel = 66k
+
+gave  bot 8M total
+
+duelling rings, POH tabs, planks, nails, hammer, saw
+
+
+1-33 construction: make crude wooden chairs (parlour room) 
+bank at castle wars, tele to house portal (w/ tabs) make crude chairs with planks, nails (630+ planks, 3k+iron nails), tele cwars from dueling ring, rebank, repeat, hammerm, saw also needed
+per charir = [ 2 Planks 2 Nails]
+315xCrude chairs=630 plank, 3k nails (17 ea)
+223/plank*2 =  446.... 
+51k worth of nails
+
+
+33-64 construction: make oak larders (kitchen)
+6500 oak planks needed, no nails, same method of banking
+per larder = 8 oak planks
+810xoak larders=6,480
+450 each= 3M
+6500 oak planks = 2.85m
+
+
+ buy like 400 tabs, 40 rings ( 8), plus nails, regular planks for 1-33 and oak planks 33-64
+gl making a script cucky
+or u can do it on ur own
+id say like 4m+ bond to get 64 const acc all set up and ready
+
+
+
+##########mage##########
+as for the tab accounts, id make a script that does wind strike->confuse->weaken->curse to lvl 40
+make sure u are wareing full iron when doing confuse,weaken,curse

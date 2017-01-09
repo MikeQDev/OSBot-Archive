@@ -1,0 +1,9 @@
+32 windstrikes...1air,1mind=32air,32mind
+217 (92+125)confuse/weak...3water,2earth,1body=651water,434earth,217body
+1,147 curses...2water,3earth,1body=2294water,3441earth,1147body
+
+
+32air,32mind
+2945waters->3k->15kgp
+3875earth->3.9k->20kgp
+1364body->1.4k->7kgp
