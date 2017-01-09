@@ -1,19 +1,18 @@
-==============
 OSBOT Archive!
 ==============
 
 
 Small dump of some of stuff I've created and found along my OSRS botting experience. Some of the proggys are pretty cool, although I'm missing quite a few.
 
-Maximum amount I had running at once was 6 bots @ 300k/h (total 1.8m/hr.) I netted about 100M in total, went in to make some more, and got smacked with an IP ban while using the custom tab maker.
-*OSBot client limited regular OSBot users to one bot running per client. This was first evaded by (unresourcefully) using virtual machines, and then eventually led to the decompiling, modifying, and recompiling the OSBot application on a Java Bytecode level.
+Maximum profits peaked at 6 bots* @ 300k/h (total 1.8m/hr., see picture) I netted about 100M in total, went in to make some more, and got smacked with an IP ban while using the custom tab maker.
 
-Bots were running throughout the semester (9/2016~12/2016); mainly on two different networks to assess JaGeX'S banning process/strategies.
+*OSBot client limited regular OSBot users to one bot running per computer/OSBot account. This was first evaded by (unresourcefully) using virtual machines, and then eventually led to the decompiling, modifying, and recompiling the OSBot application on the Java Bytecode level.
 
-Thanks to DJ for supporting initial bond acquisition and helping with script ideas.
+These bots were running throughout the semester (9/2016~12/2016); mainly on two different networks to assess JaGeX'S banning process/strategies.
+
+Thanks DJ for supporting initial bond acquisition and helping with script ideas.
 
 
-(Ignore most of the script names)
 
 ### Custom Scripts Included
 * Construction trainer - used to get req's for lectern in house (mat'l costed ~7m total)
